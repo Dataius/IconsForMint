@@ -7,3 +7,4 @@ The icon to be used must first be designed and made square with the proper fille
 List of icons i have created so far:
 -Matlab
 -Simplex
+-Apple Notes
